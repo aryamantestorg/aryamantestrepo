@@ -1,6 +1,6 @@
 steps:
   - label: ":zzz: Sleep Step"
     command:
-      - echo "Sleeping for 30 seconds..."
-      - sleep 30
+      - echo "Sleeping for 60 seconds..."
+      - sleep 60
       - echo "Test Passed!"
